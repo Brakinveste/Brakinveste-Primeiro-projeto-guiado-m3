@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+    
+}
+
+.logomarca {
+    width: 200px;
+    
+}
+
+header {
+    background: linear-gradient(274deg, #0043ff, transparent);
+    margin: 0px;
+    width: 100%;
+    padding: 10px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    margin 25px 0px;
+}
+
+.menu a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    color: #0043ff;
+    margin: 20px;
+    border: 0px solid blue;
+    border-radius: 10px;
+    padding: 10px 70px;
+    box-shadow: 5px 5px 8px hsla(0, 0%, 0%, 0.547);
+}
+
